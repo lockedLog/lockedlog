@@ -30,7 +30,6 @@
 
 ###
 
-<p align="center">A big goal of mine is to acquire real professional experience in IT.</p>
 
 ###
 
