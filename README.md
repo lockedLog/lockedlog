@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="center">Hello! My name is Logan and I am majoring in cybersecurity with a minor in IST at Penn State.</h3>
+<h3 align="center">Lead Synthesis of Multi-Dimensional Quantum Transistor Architecture Obscurity</h3>
 
 ###
 
