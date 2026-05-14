@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lockedlog&show_icons=true&theme=transparent" alt="languages graph"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lockedlog&layout=compact&show_icons=true&theme=transparent" alt="languages graph"  />
 </div>
 
 ###
