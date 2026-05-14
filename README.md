@@ -32,7 +32,6 @@
 
 ###
 
-<h5 align="center">“Security is always excessive until it’s not enough.” — Robbie Sinclair</h5>
 
 ###
 
