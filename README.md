@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://lockedlog.com/lock.png"  />
+  <img height="200" src="https://logankraus.net/LK.png"  />
 </div>
 
 ###
